@@ -1,1 +1,9 @@
-# Kannada123
+Lean Budgets and Guardrails support them and empower the workers who make the day-to-day decisions that optimize economic value. This value is measured by Key Performance Indicators (KPIs), Objectives and Key Results (OKRs), and SAFe’s three measurement domains (Outcomes, Flow, and Competency, see Measure and Grow) which are established to evaluate how the value stream is performing in achieving the portfolio’s strategy. Why Organize People in Development Value Streams? Simply put, organizing people around the DVS improves workflow, efficiency and accelerates time to market. This is accomplished by optimizing the flow of value to the Customer across divisions and functional departments through suppliers, channels, and the whole system. Value streams offer many benefits, as they: Enable long-lived, stable teams that focus on delivering value Help identify and visualize all the work necessary to produce solutions Create transparency of delays, bottlenecks, and handoffs Support smaller batch sizes of work Enable knowledge growth and more continuous learning Allow the funding model to shift to value streams from traditional project budgets Indeed, when you start to understand their worth, it makes you wonder how enterprises ever got along without them. Yes, they were always there, but we didn’t see them. [2] Defining Development Value Streams Value streams contain all the activities, people, systems, and the flow of information and materials needed to deliver value. While OVS vary significantly depending on their purpose, the DVS steps are relatively standard. Figure 2 illustrates the simplified structure of a DVS.
+
+© Scaled Agile, Inc.
+Include this copyright notice with the copied content.
+
+Read the FAQs on how to use SAFe content and trademarks here:
+https://www.scaledagile.com/about/about-us/permissions-faq/
+Explore Training at:
+https://www.scaledagile.com/training/calendar/# Kannada123
